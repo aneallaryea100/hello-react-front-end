@@ -112,7 +112,7 @@ $ git clone for this backend:
 
 #### Link to backend repository pull request
 
-    https://github.com/aneallaryea100/hello-react-front-end/pull/1
+    https://github.com/aneallaryea100/hello-react-back-end/pull/1
 
 - Once you have your repository cloned on your machine, feel free to modify it as needed.
     - To add to your own page on the browser link
